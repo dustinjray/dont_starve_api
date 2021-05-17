@@ -1,0 +1,1955 @@
+{
+  "tools": {
+    "axe": {
+      "name": "Axe",
+      "code": "axe",
+      "crafting": [
+        {
+          "name": "Twigs",
+          "quantity": 1
+        },
+        {
+          "name": "Flint",
+          "quantity": 1
+        }
+      ],
+      "tier": "always_available"
+    },
+    "luxury_axe": {
+      "name": "Luxury Axe",
+      "code": "goldenaxe",
+      "crafting": [
+        {
+          "name": "Twigs",
+          "quantity": 1
+        },
+        {
+          "name": "Gold Nugget",
+          "quantity": 1
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "pickaxe": {
+      "name": "Pickaxe",
+      "code": "pickaxe",
+      "crafting": [
+        {
+          "name": "Twigs",
+          "quantity": 2
+        },
+        {
+          "name": "Flint",
+          "quantity": 2
+        }
+      ],
+      "tier": "always_available"
+    },
+    "opulent_pickaxe": {
+      "name": "Opulent Pickaxe",
+      "code": "goldenpickaxe",
+      "crafting": [
+        {
+          "name": "Twigs",
+          "quantity": 4
+        },
+        {
+          "name": "Gold Nugget",
+          "quantity": 1
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "shovel": {
+      "name": "Shovel",
+      "code": "shovel",
+      "crafting": [
+        {
+          "name": "Twigs",
+          "quantity": 2
+        },
+        {
+          "name": "Flint",
+          "quantity": 2
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "regal_shovel": {
+      "name": "Regal Shovel",
+      "code": "goldenshovel",
+      "crafting": [
+        {
+          "name": "Twigs",
+          "quantity": 4
+        },
+        {
+          "name": "Gold Nugget",
+          "quantity": 2
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "pitchfork": {
+      "name": "Pitchfork",
+      "code": "pitchfork",
+      "crafting": [
+        {
+          "name": "Twigs",
+          "quantity": 2
+        },
+        {
+          "name": "Flint",
+          "quantity": 2
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "hammer": {
+      "name": "Hammer",
+      "code": "hammer",
+      "crafting": [
+        {
+          "name": "Twigs",
+          "quantity": 3
+        },
+        {
+          "name": "Rocks",
+          "quantity": 3
+        },
+        {
+          "name": "Rope",
+          "quantity": 2
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "razor": {
+      "name": "Razor",
+      "code": "razor",
+      "crafting": [
+        {
+          "name": "Twigs",
+          "quantity": 2
+        },
+        {
+          "name": "Flint",
+          "quantity": 2
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "feather_pencil": {
+      "name": "Feather Pencil",
+      "code": "featherpencil",
+      "crafting": [
+        {
+          "name": "Charcoal",
+          "quantity": 1
+        },
+        {
+          "name": "Jet Feather",
+          "quantity": 1
+        },
+        {
+          "name": "Twigs",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "saddlehorn": {
+      "name": "Saddlehorn",
+      "code": "saddlehorn",
+      "crafting": [
+        {
+          "name": "Twigs",
+          "quantity": 2
+        },
+        {
+          "name": "Bone Shards",
+          "quantity": 2
+        },
+        {
+          "name": "Jet Feather",
+          "quantity": 1
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "saddle": {
+      "name": "Saddle",
+      "code": "saddle",
+      "crafting": [
+        {
+          "name": "Beefalo Wool",
+          "quantity": 4
+        },
+        {
+          "name": "Pig Skin",
+          "quantity": 4
+        },
+        {
+          "name": "Gold Nugget",
+          "quantity": 4
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "war_saddle": {
+      "name": "War Saddle",
+      "code": "saddle_war",
+      "crafting": [
+        {
+          "name": "Rabbit",
+          "quantity": 4
+        },
+        {
+          "name": "Steel Wool",
+          "quantity": 4
+        },
+        {
+          "name": "Logs",
+          "quantity": 10
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "glossamer_saddle": {
+      "name": "Glossamer Saddle",
+      "code": "saddle_race",
+      "crafting": [
+        {
+          "name": "Living Log",
+          "quantity": 2
+        },
+        {
+          "name": "Silk",
+          "quantity": 4
+        },
+        {
+          "name": "Butterfly Wings",
+          "quantity": 68
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "brush": {
+      "name": "Brush",
+      "code": "brush",
+      "crafting": [
+        {
+          "name": "Steel Wool",
+          "quantity": 1
+        },
+        {
+          "name": "Walrus Tusk",
+          "quantity": 1
+        },
+        {
+          "name": "Gold Nugget",
+          "quantity": 2
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "salt_lick": {
+      "name": "Salt Lick",
+      "code": "saltlick",
+      "crafting": [
+        {
+          "name": "Boards",
+          "quantity": 2
+        },
+        {
+          "name": "Nitre",
+          "quantity": 4
+        }
+      ],
+      "tier": "alchemy_engine"
+    }
+  },
+  "light": {
+    "torch": {
+      "name": "Torch",
+      "code": "torch",
+      "crafting": [
+        {
+          "name": "Cut Grass",
+          "quantity": 2
+        },
+        {
+          "name": "Twigs",
+          "quantity": 2
+        }
+      ],
+      "tier": "always_available"
+    },
+    "campfire": {
+      "name": "Campfire",
+      "code": "campfire",
+      "crafting": [
+        {
+          "name": "Logs",
+          "quantity": 2
+        },
+        {
+          "name": "Cut Grass",
+          "quantity": 3
+        }
+      ],
+      "tier": "always_available"
+    },
+    "fire_pit": {
+      "name": "Fire Pit",
+      "code": "firepit",
+      "crafting": [
+        {
+          "name": "Log",
+          "quantity": 2
+        },
+        {
+          "name": "Rocks",
+          "quantity": 12
+        }
+      ],
+      "tier": "always_available"
+    },
+    "lantern": {
+      "name": "Lantern",
+      "code": "lantern",
+      "crafting": [
+        {
+          "name": "Light Bulb",
+          "quantity": 2
+        },
+        {
+          "name": "Twigs",
+          "quantity": 3
+        },
+        {
+          "name": "Rope",
+          "quantity": 2
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "pumpkin_lantern": {
+      "name": "Pumpkin Lantern",
+      "code": "pumpkin_lantern",
+      "crafting": [
+        {
+          "name": "Pumpkin",
+          "quantity": 1
+        },
+        {
+          "name": "Fireflies",
+          "quantity": 1
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "miner_hat": {
+      "name": "Miner Hat",
+      "code": "minerhat",
+      "crafting": [
+        {
+          "name": "Straw Hat",
+          "quantity": 1
+        },
+        {
+          "name": "Gold Nugget",
+          "quantity": 1
+        },
+        {
+          "name": "Fireflies",
+          "quantity": 1
+        }
+      ],
+      "tier": "alchemy_engine"
+    }
+  },
+  "survival": {
+    "trap": {
+      "name": "Trap",
+      "code": "trap",
+      "crafting": [
+        {
+          "name": "Cut Grass",
+          "quantity": 6
+        },
+        {
+          "name": "Twigs",
+          "quantity": 2
+        }
+      ],
+      "tier": "always_available"
+    },
+    "bird_trap": {
+      "name": "Bird trap",
+      "code": "birdtrap",
+      "crafting": [
+        {
+          "name": "Twigs",
+          "quantity": 3
+        },
+        {
+          "name": "Silk",
+          "quantity": 4
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "bug_net": {
+      "name": "Bug Net",
+      "code": "bugnet",
+      "crafting": [
+        {
+          "name": "Twigs",
+          "quantity": 4
+        },
+        {
+          "name": "Silk",
+          "quantity": 2
+        },
+        {
+          "name": "Rope",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "fishing_rod": {
+      "name": "Fishing Rod",
+      "code": "fishingrod",
+      "crafting": [
+        {
+          "name": "Twigs",
+          "quantity": 2
+        },
+        {
+          "name": "Silk",
+          "quantity": 2
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "pretty_parasol": {
+      "name": "Pretty Parasol",
+      "code": "grass_umbrella",
+      "crafting": [
+        {
+          "name": "Twigs",
+          "quantity": 4
+        },
+        {
+          "name": "Cut Grass",
+          "quantity": 3
+        },
+        {
+          "name": "Petals",
+          "quantity": 6
+        }
+      ],
+      "tier": "always_available"
+    },
+    "umbrella": {
+      "name": "Umbrella",
+      "code": "umbrella",
+      "crafting": [
+        {
+          "name": "Twigs",
+          "quantity": 6
+        },
+        {
+          "name": "Pig Skin",
+          "quantity": 1
+        },
+        {
+          "name": "Silk",
+          "quantity": 2
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "honey_poultice": {
+      "name": "Honey Poultice",
+      "code": "bandage",
+      "crafting": [
+        {
+          "name": "Papyrus",
+          "quantity": 1
+        },
+        {
+          "name": "Honey",
+          "quantity": 2
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "healing_salve": {
+      "name": "Healing Salve",
+      "code": "healingsalve",
+      "crafting": [
+        {
+          "name": "Ashes",
+          "quantity": 2
+        },
+        {
+          "name": "Rocks",
+          "quantity": 1
+        },
+        {
+          "name": "Spider Gland",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "compass": {
+      "name": "Compass",
+      "code": "compass",
+      "crafting": [
+        {
+          "name": "Gold Nugget",
+          "quantity": 1
+        },
+        {
+          "name": "Papyrus",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "thermal_stone": {
+      "name": "Thermal Stone",
+      "code": "heatrock",
+      "crafting": [
+        {
+          "name": "Rocks",
+          "quantity": 10
+        },
+        {
+          "name": "Pickaxe",
+          "quantity": 1
+        },
+        {
+          "name": "Flint",
+          "quantity": 3
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "backpack": {
+      "name": "Backpack",
+      "code": "backpack",
+      "crafting": [
+        {
+          "name": "Cut Grass",
+          "quantity": 4
+        },
+        {
+          "name": "Twigs",
+          "quantity": 4
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "piggyback": {
+      "name": "Piggyback",
+      "code": "piggyback",
+      "crafting": [
+        {
+          "name": "Pig Skin",
+          "quantity": 4
+        },
+        {
+          "name": "Silk",
+          "quantity": 6
+        },
+        {
+          "name": "Rope",
+          "quantity": 2
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "straw_roll": {
+      "name": "Straw Roll",
+      "code": "bedroll_straw",
+      "crafting": [
+        {
+          "name": "Cut Grass",
+          "quantity": 6
+        },
+        {
+          "name": "Rope",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "fur_roll": {
+      "name": "Fur Roll",
+      "code": "bedroll_furry",
+      "crafting": [
+        {
+          "name": "Straw Roll",
+          "quantity": 1
+        },
+        {
+          "name": "Bunny Puff",
+          "quantity": 2
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "tent": {
+      "name": "Tent",
+      "code": "tent",
+      "crafting": [
+        {
+          "name": "Silk",
+          "quantity": 6
+        },
+        {
+          "name": "Twigs",
+          "quantity": 4
+        },
+        {
+          "name": "Rope",
+          "quantity": 3
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "bundling_wrap": {
+      "name": "Bundling Wrap",
+      "code": "bundlewrap",
+      "crafting": [
+        {
+          "name": "Papyrus",
+          "quantity": 1
+        },
+        {
+          "name": "Rope",
+          "quantity": 1
+        }
+      ],
+      "tier": "blueprint"
+    }
+  },
+  "food": {
+    "basic_farm": {
+      "name": "Basic Farm",
+      "code": "slow_farmplot",
+      "crafting": [
+        {
+          "name": "Cut Grass",
+          "quantity": 8
+        },
+        {
+          "name": "Manure",
+          "quantity": 4
+        },
+        {
+          "name": "Log",
+          "quantity": 4
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "improved_farm": {
+      "name": "Improved Farm",
+      "code": "fast_farmplot",
+      "crafting": [
+        {
+          "name": "Cut Grass",
+          "quantity": 10
+        },
+        {
+          "name": "Manure",
+          "quantity": 6
+        },
+        {
+          "name": "Rocks",
+          "quantity": 4
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "bee_box": {
+      "name": "Bee Box",
+      "code": "beebox",
+      "crafting": [
+        {
+          "name": "Boards",
+          "quantity": 2
+        },
+        {
+          "name": "Honeycomb",
+          "quantity": 1
+        },
+        {
+          "name": "Bee",
+          "quantity": 4
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "drying_rack": {
+      "name": "Drying Rack",
+      "code": "meatrack",
+      "crafting": [
+        {
+          "name": "Twigs",
+          "quantity": 3
+        },
+        {
+          "name": "Charcoal",
+          "quantity": 2
+        },
+        {
+          "name": "Rope",
+          "quantity": 3
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "crock_pot": {
+      "name": "Crock Pot",
+      "code": "cookpot",
+      "crafting": [
+        {
+          "name": "Cut Stone",
+          "quantity": 3
+        },
+        {
+          "name": "Charcoal",
+          "quantity": 6
+        },
+        {
+          "name": "Twigs",
+          "quantity": 6
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "ice_box": {
+      "name": "Ice Box",
+      "code": "icebox",
+      "crafting": [
+        {
+          "name": "Boards",
+          "quantity": 1
+        },
+        {
+          "name": "Gears",
+          "quantity": 1
+        },
+        {
+          "name": "Gold Nugget",
+          "quantity": 2
+        }
+      ],
+      "tier": "alchemy_engine"
+    }
+  },
+  "science": {
+    "science_machine": {
+      "name": "Science Machine",
+      "code": "researchlab",
+      "crafting": [
+        {
+          "name": "Gold Nugget",
+          "quantity": 1
+        },
+        {
+          "name": "Log",
+          "quantity": 4
+        },
+        {
+          "name": "Rocks",
+          "quantity": 4
+        }
+      ],
+      "tier": "always_available"
+    },
+    "alchemy_engine": {
+      "name": "Alchemy Engine",
+      "code": "researchlab2",
+      "crafting": [
+        {
+          "name": "Boards",
+          "quantity": 2
+        },
+        {
+          "name": "Cut Stone",
+          "quantity": 2
+        },
+        {
+          "name": "Gold Nugget",
+          "quantity": 6
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "divining_rod": {
+      "name": "Divining Rod",
+      "code": "diviningrod",
+      "crafting": [
+        {
+          "name": "Twigs",
+          "quantity": 1
+        },
+        {
+          "name": "Nightmare Fuel",
+          "quantity": 4
+        },
+        {
+          "name": "Gears",
+          "quantity": 1
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "thermal_measurer": {
+      "name": "Thermal Measurer",
+      "code": "winterometer",
+      "crafting": [
+        {
+          "name": "Boards",
+          "quantity": 2
+        },
+        {
+          "name": "Gold Nugget",
+          "quantity": 2
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "rainometer": {
+      "name": "Rainometer",
+      "code": "rainometer",
+      "crafting": [
+        {
+          "name": "Boards",
+          "quantity": 2
+        },
+        {
+          "name": "Gold Nugget",
+          "quantity": 2
+        },
+        {
+          "name": "Rope",
+          "quantity": 2
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "gunpowder": {
+      "name": "Gunpowder",
+      "code": "gunpowder",
+      "crafting": [
+        {
+          "name": "Rotten Egg",
+          "quantity": 1
+        },
+        {
+          "name": "Charcoal",
+          "quantity": 1
+        },
+        {
+          "name": "Nitre",
+          "quantity": 1
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "lightning_rod": {
+      "name": "Lightning Rod",
+      "code": "lightning_rod",
+      "crafting": [
+        {
+          "name": "Gold Nugget",
+          "quantity": 3
+        },
+        {
+          "name": "Cut Stone",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    }
+  },
+  "fight": {
+    "spear": {
+      "name": "Spear",
+      "code": "spear",
+      "crafting": [
+        {
+          "name": "Twigs",
+          "quantity": 2
+        },
+        {
+          "name": "Rope",
+          "quantity": 1
+        },
+        {
+          "name": "Flint",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "ham_bat": {
+      "name": "Ham Bat",
+      "code": "hambat",
+      "crafting": [
+        {
+          "name": "Pig Skin",
+          "quantity": 1
+        },
+        {
+          "name": "Twigs",
+          "quantity": 2
+        },
+        {
+          "name": "Meat",
+          "quantity": 2
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "log_suit": {
+      "name": "Log Suit",
+      "code": "armorwood",
+      "crafting": [
+        {
+          "name": "Log",
+          "quantity": 8
+        },
+        {
+          "name": "Rope",
+          "quantity": 2
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "grass_suit": {
+      "name": "Grass Suit",
+      "code": "armorgrass",
+      "crafting": [
+        {
+          "name": "Cut Grass",
+          "quantity": 10
+        },
+        {
+          "name": "Twigs",
+          "quantity": 2
+        }
+      ],
+      "tier": "always_available"
+    },
+    "marble_suit": {
+      "name": "Marble Suit",
+      "code": "armormarble",
+      "crafting": [
+        {
+          "name": "Marble",
+          "quantity": 12
+        },
+        {
+          "name": "Rope",
+          "quantity": 4
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "football_helmet": {
+      "name": "Football Helmet",
+      "code": "footballhat",
+      "crafting": [
+        {
+          "name": "Pig Skin",
+          "quantity": 1
+        },
+        {
+          "name": "Rope",
+          "quantity": 1
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "blow_dart": {
+      "name": "Blow Dart",
+      "code": "blowdart_pipe",
+      "crafting": [
+        {
+          "name": "Cut Reeds",
+          "quantity": 2
+        },
+        {
+          "name": "Hound's Tooth",
+          "quantity": 1
+        },
+        {
+          "name": "Azure Feather",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "fire_dart": {
+      "name": "Fire Dart",
+      "code": "blowdart_fire",
+      "crafting": [
+        {
+          "name": "Cut Reeds",
+          "quantity": 2
+        },
+        {
+          "name": "Charcoal",
+          "quantity": 1
+        },
+        {
+          "name": "Crimson Feather",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "Sleep Dart": {
+      "name": "Sleep Dart",
+      "code": "blowdart_sleep",
+      "crafting": [
+        {
+          "name": "Cut Reeds",
+          "quantity": 2
+        },
+        {
+          "name": "Stinger",
+          "quantity": 1
+        },
+        {
+          "name": "Jet Feather",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "boomerang": {
+      "name": "Boomerang",
+      "code": "boomerang",
+      "crafting": [
+        {
+          "name": "Boards",
+          "quantity": 1
+        },
+        {
+          "name": "Silk",
+          "quantity": 1
+        },
+        {
+          "name": "Charcoal",
+          "quantity": 1
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "bee_mine": {
+      "name": "Bee Mine",
+      "code": "beemine",
+      "crafting": [
+        {
+          "name": "Boards",
+          "quantity": 1
+        },
+        {
+          "name": "Bee",
+          "quantity": 4
+        },
+        {
+          "name": "Flint",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "tooth_trap": {
+      "name": "Tooth Trap",
+      "code": "trap_teeth",
+      "crafting": [
+        {
+          "name": "Log",
+          "quantity": 1
+        },
+        {
+          "name": "Rope",
+          "quantity": 1
+        },
+        {
+          "name": "Hound's Tooth",
+          "quantity": 1
+        }
+      ],
+      "tier": "alchemy_engine"
+    }
+  },
+  "structures": {
+    "chest": {
+      "name": "Chest",
+      "code": "treasurechest",
+      "crafting": [
+        {
+          "name": "Boards",
+          "quantity": 3
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "sign": {
+      "name": "Sign",
+      "code": "homesign",
+      "crafting": [
+        {
+          "name": "Boards",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "mini_sign": {
+      "name": "Mini Sign",
+      "code": "minisign_item",
+      "crafting": [
+        {
+          "name": "Boards",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "wood_fence": {
+      "name": "Wood Fence",
+      "code": "fence_item",
+      "crafting": [
+        {
+          "name": "Twigs",
+          "quantity": 3
+        },
+        {
+          "name": "Rope",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "wood_gate": {
+      "name": "Wood Gate",
+      "code": "fence_gate_item",
+      "crafting": [
+        {
+          "name": "Boards",
+          "quantity": 2
+        },
+        {
+          "name": "Rope",
+          "quantity": 1
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "hay_wall": {
+      "name": "Hay Wall",
+      "code": "wall_hay_item",
+      "crafting": [
+        {
+          "name": "Cut Grass",
+          "quantity": 4
+        },
+        {
+          "name": "Twigs",
+          "quantity": 2
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "wood_wall": {
+      "name": "Wood Wall",
+      "code": "wood_wall_item",
+      "crafting": [
+        {
+          "name": "Boards",
+          "quantity": 2
+        },
+        {
+          "name": "Rope",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "stone_wall": {
+      "name": "Stone Wall",
+      "code": "wall_stone_item",
+      "crafting": [
+        {
+          "name": "Cut Stone",
+          "quantity": 2
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "pig_house": {
+      "name": "Pig house",
+      "code": "pighouse",
+      "crafting": [
+        {
+          "name": "Boards",
+          "quantity": 4
+        },
+        {
+          "name": "Cut Stone",
+          "quantity": 3
+        },
+        {
+          "name": "Pig Skin",
+          "quantity": 4
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "rabbit_hutch": {
+      "name": "Rabbit Hutch",
+      "code": "rabbithouse",
+      "crafting": [
+        {
+          "name": "Boards",
+          "quantity": 4
+        },
+        {
+          "name": "Carrot",
+          "quantity": 10
+        },
+        {
+          "name": "Bunny Puff",
+          "quantity": 4
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "birdcage": {
+      "name": "Birdcage",
+      "code": "birdcage",
+      "crafting": [
+        {
+          "name": "Papyrus",
+          "quantity": 2
+        },
+        {
+          "name": "Gold Nugget",
+          "quantity": 6
+        },
+        {
+          "name": "Seeds",
+          "quantity": 2
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "cobblestones": {
+      "name": "Cobblestones",
+      "code": "turf_road",
+      "crafting": [
+        {
+          "name": "Rocky Turf",
+          "quantity": 1
+        },
+        {
+          "name": "Boards",
+          "quantity": 1
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "wooden_flooring": {
+      "name": "Wooden Flooring",
+      "code": "turf_woodfloor",
+      "crafting": [
+        {
+          "name": "Boards",
+          "quantity": 1
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "checkerboard_flooring": {
+      "name": "Checkerboard Flooring",
+      "code": "turf_checkerfloor",
+      "crafting": [
+        {
+          "name": "Marble",
+          "quantity": 1
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "carpeted_flooring": {
+      "name": "Carpeted Flooring",
+      "crafting": [
+        {
+          "name": "Boards",
+          "quantity": 1
+        },
+        {
+          "name": "Beefalo Wool",
+          "quantity": 1
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "potted_fern": {
+      "name": "Potted Fern",
+      "code": "pottedfern",
+      "crafting": [
+        {
+          "name": "Foliage",
+          "quantity": 5
+        },
+        {
+          "name": "Broken Shell",
+          "quantity": 1
+        }
+      ],
+      "tier": "alchemy_engine"
+    }
+  },
+  "refine": {
+    "rope": {
+      "name": "Rope",
+      "code": "rope",
+      "crafting": [
+        {
+          "name": "Cut Grass",
+          "quantity": 3
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "boards": {
+      "name": "Boards",
+      "code": "boards",
+      "crafting": [
+        {
+          "name": "Log",
+          "quantity": 4
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "cut_stone": {
+      "name": "Cut Stone",
+      "code": "cutstone",
+      "crafting": [
+        {
+          "name": "Rocks",
+          "quantity": 3
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "papyrus": {
+      "name": "Papyrus",
+      "code": "papyrus",
+      "crafting": [
+        {
+          "name": "Cut Reeds",
+          "quantity": 4
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "nightmare_fuel": {
+      "name": "Nightmare Fuel",
+      "code": "nightmarefuel",
+      "crafting": [
+        {
+          "name": "Dark Petals",
+          "quantity": 4
+        }
+      ],
+      "tier": "prestihatitator"
+    },
+    "purple_gem": {
+      "name": "Purple Gem",
+      "code": "purplegem",
+      "crafting": [
+        {
+          "name": "Red Gem",
+          "quantity": 1
+        },
+        {
+          "name": "Blue Gem",
+          "quantity": 1
+        }
+      ],
+      "tier": "prestihatitator"
+    },
+    "beeswax": {
+      "name": "Beeswax",
+      "code": "beeswax",
+      "crafting": [
+        {
+          "name": "Honeycomb",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "wax_paper": {
+      "name": "Wax Paper",
+      "code": "waxpaper",
+      "crafting": [
+        {
+          "name": "Beeswax",
+          "quantity": 1
+        },
+        {
+          "name": "Papyrus",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    }
+  },
+  "magic": {
+    "meat_effigy": {
+      "name": "Meat Effigy",
+      "code": "ressurectionstatue",
+      "crafting": [
+        {
+          "name": "Boards",
+          "quantity": 4
+        },
+        {
+          "name": "Cooked Meat",
+          "quantity": 4
+        },
+        {
+          "name": "Beard Hair",
+          "quantity": 4
+        }
+      ],
+      "tier": "prestihatitator"
+    },
+    "prestihatitator": {
+      "name": "Prestihatitator",
+      "code": "researchlab4",
+      "crafting": [
+        {
+          "name": "Rabbit",
+          "quantity": 4
+        },
+        {
+          "name": "Boards",
+          "quantity": 4
+        },
+        {
+          "name": "Top Hat",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "shadow_manipulator": {
+      "name": "Shadow Manipulator",
+      "code": "researchlab3",
+      "crafting": [
+        {
+          "name": "Living Log",
+          "quantity": 3
+        },
+        {
+          "name": "Purple Gem",
+          "quantity": 1
+        },
+        {
+          "name": "Nightmare Fuel",
+          "quantity": 7
+        }
+      ],
+      "tier": "prestihatitator"
+    },
+    "pan_flute": {
+      "name": "Pan Flute",
+      "code": "panflute",
+      "crafting": [
+        {
+          "name": "Cut Reeds",
+          "quantity": 5
+        },
+        {
+          "name": "Mandrake",
+          "quantity": 1
+        },
+        {
+          "name": "Rope",
+          "quantity": 1
+        }
+      ],
+      "tier": "prestihatitator"
+    },
+    "one_man_band": {
+      "name": "One-Man Band",
+      "code": "onemanband",
+      "crafting": [
+        {
+          "name": "Gold Nugget",
+          "quantity": 2
+        },
+        {
+          "name": "Nightmare Fuel",
+          "quantity": 4
+        },
+        {
+          "name": "Pig Skin",
+          "quantity": 2
+        }
+      ],
+      "tier": "prestihatitator"
+    },
+    "night_light": {
+      "name": "Night Light",
+      "code": "nightlight",
+      "crafting": [
+        {
+          "name": "Gold Nugget",
+          "quantity": 8
+        },
+        {
+          "name": "Nightmare Fuel",
+          "quantity": 2
+        },
+        {
+          "name": "Red Gem",
+          "quantity": 1
+        }
+      ],
+      "tier": "prestihatitator"
+    },
+    "dark_sword": {
+      "name": "Dark Sword",
+      "code": "nightsword",
+      "crafting": [
+        {
+          "name": "Nightmare Fuel",
+          "quantity": 5
+        },
+        {
+          "name": "Living Log",
+          "quantity": 1
+        }
+      ],
+      "tier": "shadow_manipulator"
+    },
+    "night_armor": {
+      "name": "Night Armor",
+      "code": "armor_sanity",
+      "crafting": [
+        {
+          "name": "Nightmare Fuel",
+          "quantity": 5
+        },
+        {
+          "name": "Papyrus",
+          "quantity": 3
+        }
+      ],
+      "tier": "shadow_manipulator"
+    },
+    "bat_bat": {
+      "name": "Bat Bat",
+      "code": "batbat",
+      "crafting": [
+        {
+          "name": "Batalisk Wing",
+          "quantity": 5
+        },
+        {
+          "name": "Living Log",
+          "quantity": 2
+        },
+        {
+          "name": "Purple Gem",
+          "quantity": 1
+        }
+      ],
+      "tier": "shadow_manipulator"
+    },
+    "belt_of_hunger": {
+      "name": "Belt of Hunger",
+      "code": "armorslurper",
+      "crafting": [
+        {
+          "name": "Slurper Pelt",
+          "quantity": 6
+        },
+        {
+          "name": "Rope",
+          "quantity": 2
+        },
+        {
+          "name": "Nightmare Fuel",
+          "quantity": 2
+        }
+      ],
+      "tier": "shadow_manipulator"
+    },
+    "life_giving_amulet": {
+      "name": "Life Giving Amulet",
+      "code": "amulet",
+      "crafting": [
+        {
+          "name": "Gold Nugget",
+          "quantity": 3
+        },
+        {
+          "name": "Nightmare Fuel",
+          "quantity": 2
+        },
+        {
+          "name": "Red Gem",
+          "quantity": 1
+        }
+      ],
+      "tier": "prestihatitator"
+    },
+    "chilled_amulet": {
+      "name": "Chilled Amulet",
+      "code": "blueamulet",
+      "crafting": [
+        {
+          "name": "Gold Nugget",
+          "quantity": 3
+        },
+        {
+          "name": "Blue Gem",
+          "quantity": 1
+        }
+      ],
+      "tier": "prestihatitator"
+    },
+    "nightmare_amulet": {
+      "name": "Nightmare Amulet",
+      "code": "purpleamulet",
+      "crafting": [
+        {
+          "name": "Gold Nugget",
+          "quantity": 6
+        },
+        {
+          "name": "Nightmare Fuel",
+          "quantity": 4
+        },
+        {
+          "name": "Purple Gem",
+          "quantity": 2
+        }
+      ],
+      "tier": "shadow_manipulator"
+    },
+    "fire_staff": {
+      "name": "Fire Staff",
+      "code": "firestaff",
+      "crafting": [
+        {
+          "name": "Nightmare Fuel",
+          "quantity": 2
+        },
+        {
+          "name": "Spear",
+          "quantity": 1
+        },
+        {
+          "name": "Red Gem",
+          "quantity": 1
+        }
+      ],
+      "tier": "shadow_manipulator"
+    },
+    "ice_staff": {
+      "name": "Ice Staff",
+      "code": "icestaff",
+      "crafting": [
+        {
+          "name": "Spear",
+          "quantity": 1
+        },
+        {
+          "name": "Blue Gem",
+          "quantity": 1
+        }
+      ],
+      "tier": "prestihatitator"
+    },
+    "telelocator_staff": {
+      "name": "Telelocator Staff",
+      "code": "telestaff",
+      "crafting": [
+        {
+          "name": "Nightmare Fuel",
+          "quantity": 4
+        },
+        {
+          "name": "Living Log",
+          "quantity": 2
+        },
+        {
+          "name": "Purple Gem",
+          "quantity": 2
+        }
+      ],
+      "tier": "shadow_manipulator"
+    },
+    "telelocator_focus": {
+      "name": "Telelocator Focus",
+      "code": "telebase",
+      "crafting": [
+        {
+          "name": "Nightmare Fuel",
+          "quantity": 4
+        },
+        {
+          "name": "Living Log",
+          "quantity": 4
+        },
+        {
+          "name": "Gold Nugget",
+          "quantity": 8
+        }
+      ],
+      "tier": "shadow_manipulator"
+    }
+  },
+  "dress": {
+    "sewing_kit": {
+      "name": "Sewing Kit",
+      "code": "sewing_kit",
+      "crafting": [
+        {
+          "name": "Log",
+          "quantity": 1
+        },
+        {
+          "name": "Silk",
+          "quantity": 8
+        },
+        {
+          "name": "Hound's Tooth",
+          "quantity": 2
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "garland": {
+      "name": "Garland",
+      "code": "flowerhat",
+      "crafting": [
+        {
+          "name": "Petals",
+          "quantity": 12
+        }
+      ],
+      "tier": "always_available"
+    },
+    "straw_hat": {
+      "name": "Straw Hat",
+      "code": "strawhat",
+      "crafting": [
+        {
+          "name": "Cut Grass",
+          "quantity": 12
+        }
+      ],
+      "tier": "always_available"
+    },
+    "top_hat": {
+      "name": "Top Hat",
+      "code": "tophat",
+      "crafting": [
+        {
+          "name": "Silk",
+          "quantity": 6
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "beekeeper_hat": {
+      "name": "Beekeeper Hat",
+      "code": "beehat",
+      "crafting": [
+        {
+          "name": "Silk",
+          "quantity": 8
+        },
+        {
+          "name": "Rope",
+          "quantity": 1
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "rabbit_earmuffs": {
+      "name": "Rabbit Earmuffs",
+      "code": "earmuffhat",
+      "crafting": [
+        {
+          "name": "Rabbit",
+          "quantity": 2
+        },
+        {
+          "name": "Twigs",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "beefalo_hat": {
+      "name": "Beefalo Hat",
+      "code": "beefalohat",
+      "crafting": [
+        {
+          "name": "Beefalo Wool",
+          "quantity": 8
+        },
+        {
+          "name": "Beefalo Horn",
+          "quantity": 1
+        }
+      ],
+      "tier": "science_machine"
+    },
+    "feather_hat": {
+      "name": "Feather Hat",
+      "code": "featherhat",
+      "crafting": [
+        {
+          "name": "Jet Feather",
+          "quantity": 3
+        },
+        {
+          "name": "Crimson Feather",
+          "quantity": 2
+        },
+        {
+          "name": "Tentacle Spots",
+          "quantity": 2
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "bush_hat": {
+      "name": "Bush Hat",
+      "code": "bushhat",
+      "crafting": [
+        {
+          "name": "Straw Hat",
+          "quantity": 1
+        },
+        {
+          "name": "Rope",
+          "quantity": 1
+        },
+        {
+          "name": "Berry Bush",
+          "quantity": 1
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "winter_hat": {
+      "name": "Winter Hat",
+      "code": "winterhat",
+      "crafting": [
+        {
+          "name": "Beefalo Wool",
+          "quantity": 4
+        },
+        {
+          "name": "Silk",
+          "quantity": 4
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "dapper_vest": {
+      "name": "Dapper Vest",
+      "code": "sweatervest",
+      "crafting": [
+        {
+          "name": "Hound's Tooth",
+          "quantity": 8
+        },
+        {
+          "name": "Silk",
+          "quantity": 6
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "breezy_vest": {
+      "name": "Breezy Vest",
+      "code": "trunkvest_summer",
+      "crafting": [
+        {
+          "name": "Koalefant Trunk",
+          "quantity": 1
+        },
+        {
+          "name": "Silk",
+          "quantity": 8
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "puffy_vest": {
+      "name": "Puffy Vest",
+      "code": "trunkvest_winter",
+      "crafting": [
+        {
+          "name": "Koalefant Trunk",
+          "quantity": 1
+        },
+        {
+          "name": "Silk",
+          "quantity": 8
+        },
+        {
+          "name": " Beefalo Wool",
+          "quantity": 2
+        }
+      ],
+      "tier": "alchemy_engine"
+    },
+    "walking_cane": {
+      "name": "Walking Cane",
+      "code": "cane",
+      "crafting": [
+        {
+          "name": "Gold Nugget",
+          "quantity": 2
+        },
+        {
+          "name": "Walrus Tusk",
+          "quantity": 1
+        },
+        {
+          "name": "Twigs",
+          "quantity": 4
+        }
+      ],
+      "tier": "alchemy_engine"
+    }
+  }
+}
