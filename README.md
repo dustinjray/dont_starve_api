@@ -2,6 +2,8 @@
 
 ## Inspiration
 
+This was an assignment I completed while pursuing my Bachelor's degree in software development with Bellevue University.
+
 I see all these apps that help with cooking recipes for the game, (which since the game IS called Don't Starve I guess is kind of important) but having access to crafting recipes would be nice, too. 
 
 I wanted this to be similar in concept to the Poké API.
